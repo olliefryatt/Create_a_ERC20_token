@@ -1,0 +1,31 @@
+
+
+
+(1) Create solidity contract for ERC20 Toek
+
+See token standard doc 
+https://eips.ethereum.org/EIPS/eip-20
+
+Take the openzeplin contract to build upon. Copy & pasted into a solidity contract.
+https://docs.openzeppelin.com/contracts/4.x/erc20
+
+Set up brownie-congig.yaml files
+• dependencies
+• compiler
+
+Should now be able to $ brownie compile
+
+
+(2) Adapt script to our token. Change names etc. to desired token names.
+
+(3) Deploy Token
+
+
+
+
+
+________
+
+
+
+
